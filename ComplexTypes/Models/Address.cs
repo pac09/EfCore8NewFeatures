@@ -2,6 +2,7 @@
 
 namespace ComplexTypes.Models;
 
+//Using this attribute is one way to use ComplexTypes in your database
 [ComplexType]
 public class Address
 {
